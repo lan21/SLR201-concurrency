@@ -1,0 +1,32 @@
+Philosophe 2:THINKING
+Philosophe 3:THINKING
+Philosophe 5:THINKING
+Philosophe 4:THINKING
+Philosophe 1:THINKING
+Philosophe 4:STARVING
+Philosophe 4:EATING
+Philosophe 5:STARVING
+Philosophe 3:STARVING
+Philosophe 1:STARVING
+Philosophe 2:STARVING
+Philosophe 4:THINKING
+Philosophe 5:EATING
+Philosophe 4:STARVING
+Philosophe 5:THINKING
+Philosophe 1:EATING
+Philosophe 5:STARVING
+Philosophe 2:EATING
+Philosophe 1:THINKING
+Philosophe 1:STARVING
+Philosophe 2:THINKING
+Philosophe 3:EATING
+Philosophe 4:EATING
+Philosophe 3 number of eating : 1
+Philosophe 2:STARVING
+Philosophe 4 number of eating : 2
+Philosophe 5:EATING
+Philosophe 5 number of eating : 2
+Philosophe 1:EATING
+Philosophe 1 number of eating : 2
+Philosophe 2:EATING
+Philosophe 2 number of eating : 2
